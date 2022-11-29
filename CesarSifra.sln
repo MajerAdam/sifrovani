@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CesarSifra", "CesarSifra.csproj", "{A1850DD4-A6A7-40D5-A3C4-FD49051DE9CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1850DD4-A6A7-40D5-A3C4-FD49051DE9CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1850DD4-A6A7-40D5-A3C4-FD49051DE9CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1850DD4-A6A7-40D5-A3C4-FD49051DE9CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1850DD4-A6A7-40D5-A3C4-FD49051DE9CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B95540D-FF3F-4A90-929A-1DDFA9BC63C1}
+	EndGlobalSection
+EndGlobal
